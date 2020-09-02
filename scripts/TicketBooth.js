@@ -9,7 +9,6 @@ eventHub.addEventListener("click", event => {
 })
 
 
-
 export const TicketBooth = () => {
     contentTarget.innerHTML = `
         <div class="ticketBooth">
